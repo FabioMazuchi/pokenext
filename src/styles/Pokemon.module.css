@@ -1,0 +1,22 @@
+.pokemon {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 40px 0;
+}
+
+.pokemon h1 {
+    font-size: 45px;
+    text-transform: capitalize;
+    margin-bottom: 30px;
+}
+
+.pokemon div {
+    display: flex;
+    align-items: center;
+    margin: 20px 0;
+}
+
+.pokemon h2 {
+    margin-bottom: 20px;
+}
